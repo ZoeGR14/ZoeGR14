@@ -48,3 +48,4 @@ Soy un **Desarrollador Full Stack & Cloud Enthusiast** apasionado por construir 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zoe-gonzalez-rodriguez)
 - 📧 [gonzalez.rodriguez.zoe@gmail.com](mailto:gonzalez.rodriguez.zoe@gmail.com)
+- 📞 56-1033-6534
