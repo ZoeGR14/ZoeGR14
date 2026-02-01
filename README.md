@@ -1,6 +1,8 @@
 # ¡Hola! Soy Zoe González Rodríguez 👋
+
 ### 🎓 Estudiante de Ingeniería en Sistemas Computacionales (ESCOM - IPN)
-📍 *Estado de México, México*
+
+📍 _Estado de México, México_
 
 Soy un **Desarrollador Full Stack & Cloud Enthusiast** apasionado por construir soluciones escalables. Actualmente curso el **6to semestre** de ingeniería, especializándome en desarrollo móvil (React Native y Android Nativo), arquitectura web y DevOps.
 
@@ -21,25 +23,37 @@ Soy un **Desarrollador Full Stack & Cloud Enthusiast** apasionado por construir 
 
 ## 🚀 Proyectos Destacados
 
-### 🚇 [AjoloNauta](https://github.com/ZoeGR14/AjoloNauta) | *Desarrollador Full Stack Mobile*
-*Aplicación de optimización de rutas para el Metro de la CDMX.*
+### 🚇 [AjoloNauta](https://github.com/ZoeGR14/AjoloNauta) | _Desarrollador Full Stack Mobile_
+
+_Aplicación de optimización de rutas para el Metro de la CDMX._
+
 - **Algoritmos:** Implementé el **algoritmo de Dijkstra** para calcular grafos complejos entre 195 estaciones, logrando rutas óptimas en **<500ms**.
 - **Base de Datos:** Diseñé una arquitectura NoSQL en **Firebase Firestore** para sincronización en tiempo real.
 - **Stack:** React Native, Expo, Node.js.
 
-### 🐾 [NIMO](https://github.com/ZoeGR14/NIMO) | *Desarrollador Full Stack Web & DB Architect*
-*Plataforma de gestión integral para clínicas veterinarias (Digitalización de procesos).*
-- **Arquitectura:** Implementé patrón **MVC** usando Java Servlets y JSTL para lógica de negocio robusta.
+### 🐾 [NIMO](https://github.com/ZoeGR14/NIMO) | _Desarrollador Full Stack Web & DB Architect_
+
+_Plataforma de gestión integral para clínicas veterinarias (Digitalización de procesos)._
+
+- **Arquitectura:** Implementé patrón **MVC** usando Java Servlets y JSTL para lógica de negocio robusta, teniendo contenedorización completa con **Docker**.
 - **Base de Datos:** Diseñé el esquema **MySQL normalizado (3NF)** garantizando integridad referencial.
 - **Impacto:** Eliminación total de registros manuales en papel para gestión de citas e historial clínico.
+
+### 🧠 Kihon | _Desarrollador Full Stack_
+
+_Sistema integral de Orientación Vocacional y Desarrollo Personal._
+
+- **Funcionalidad:** Integra tests de personalidad **MBTI**, evaluación vocacional y generación de metas académicas personalizadas.
+- **Arquitectura:** Desarrollado con **JavaEE Web API**, arquitectura **MVC** y contenedorización completa con **Docker**.
+- **Stack:** Java 7, MySQL 5.7, JSP, Tomcat 9.0, Docker.
 
 ---
 
 ## 📜 Certificaciones
 
-| Certificación | Emisor | Fecha |
-| :--- | :--- | :--- |
-| **Cloud Computing Foundations** | Google Cloud (Skills Boost) | Sep 2025 |
+| Certificación                           | Emisor                             | Fecha    |
+| :-------------------------------------- | :--------------------------------- | :------- |
+| **Cloud Computing Foundations**         | Google Cloud (Skills Boost)        | Sep 2025 |
 | **Fundamentos de Gestión de Proyectos** | Project Management Institute (PMI) | Sep 2025 |
 
 ---
