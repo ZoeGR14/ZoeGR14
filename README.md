@@ -39,7 +39,7 @@ _Plataforma de gestión integral para clínicas veterinarias (Digitalización de
 - **Base de Datos:** Diseñé el esquema **MySQL normalizado (3NF)** garantizando integridad referencial.
 - **Impacto:** Eliminación total de registros manuales en papel para gestión de citas e historial clínico.
 
-### 🧠 Kihon | _Desarrollador Full Stack_
+### 🧠 [Kihon](https://github.com/ZoeGR14/Kihon) | _Desarrollador Full Stack_
 
 _Sistema integral de Orientación Vocacional y Desarrollo Personal._
 
